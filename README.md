@@ -35,13 +35,19 @@ Developed a responsive ordering platform for 100+ users, integrating Google Shee
 ### [Maternal Health Risk Classification](https://github.com/KanzGiwa/Maternal-Health-Risk-Machine-Learning-Project)  
 Engineered a supervised ML model to predict maternal health risks, improving accuracy by **62%** with preprocessing and hyperparameter tuning.  
 **Tech Stack:** Python, scikit-learn, Google Colab  
-**Learnings:** Data preprocessing, model optimization, healthcare analytics.  
+**Learnings:** Data preprocessing, model optimization, and healthcare analytics.  
 
 ### [Quiz App](https://github.com/KanzGiwa/Quiz-App)  
 Built a full-stack quiz application with a **React frontend** and **Flask backend**, fetching trivia questions from the Open Trivia Database API.  
 **Features:** Dynamic question fetching, multiple choice, real-time score calculation, clean responsive UI, and a RESTful API backend.  
 **Tech Stack:** React, Flask, Python, JavaScript, HTML, CSS, REST APIs  
 **Learnings:** Full-stack development, API integration, frontend-backend communication.  
+
+### [Python---TV-Project](https://github.com/KanzGiwa/Python---TV-Project-)  
+Developed an interactive Python tool to analyze TV show data from CSV files, enabling users to search, sort, and compute statistics on TV shows.  
+**Features:** Search by title, rating, or score; find shows in a year range; calculate average scores; compare show scores; sort shows by release year, and export results.  
+**Tech Stack:** Python, File I/O, Lists, Control Structures  
+**Learnings:** Modular program design, search and sort algorithms, file validation and error handling, and user-interactive CLI applications.
 
 
 ## 🌍 Extracurriculars & Interests
@@ -63,7 +69,7 @@ Built a full-stack quiz application with a **React frontend** and **Flask backen
 ## 📊 GitHub Stats:  
 ![Kanz's GitHub streak stats](https://github-readme-stats.vercel.app/api?username=KanzGiwa&show_icons=true&theme=default)
 
-![2025 Contributions](https://img.shields.io/badge/2025%20Contributions-179-green?style=flat-square&logo=github)
+![2025 Contributions](https://img.shields.io/badge/2025%20Contributions-180-green?style=flat-square&logo=github)
 ![Repositories](https://img.shields.io/badge/Public%20Repos-15-orange?style=flat-square&logo=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanzGiwa&layout=compact&theme=radical)  
@@ -72,7 +78,7 @@ Built a full-stack quiz application with a **React frontend** and **Flask backen
 
 ## 🏆 Awards & Achievements
 - Break Through Tech Fellow – AI Studio participant and Machine Learning Certificate.  
-- Robotics Engineer Intern – Delivered impactful robotics features and secure AWS deployments.  
+- Robotics Engineer Intern – Delivered impactful robotics features.  
 - Recipient of leadership roles in campus organizations.  
 
 ---
