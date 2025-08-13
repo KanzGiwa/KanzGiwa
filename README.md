@@ -60,7 +60,12 @@ Built a full-stack quiz application with a **React frontend** and **Flask backen
 
 ---
 
-## 📊 GitHub Stats: Coming Soon!  
+## 📊 GitHub Stats:  
+![Kanz's GitHub streak stats](https://github-readme-stats.vercel.app/api?username=KanzGiwa&show_icons=true&theme=default)
+
+![2025 Contributions](https://img.shields.io/badge/2025%20Contributions-179-green?style=flat-square&logo=github)
+![Repositories](https://img.shields.io/badge/Public%20Repos-15-orange?style=flat-square&logo=github)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KanzGiwa&layout=compact&theme=radical)  
 
 ---
