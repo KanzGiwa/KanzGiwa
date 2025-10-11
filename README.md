@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kanz!  
-🎓 Junior at the University of Rhode Island, double majoring in Computer Science & Data Science  
+🎓 Senior at the University of Rhode Island, double majoring in Computer Science & Data Science  
 💻 Aspiring Software Engineer | 💡 AI & Sustainability Enthusiast
 
 I’m passionate about solving real-world problems through technology — from robotics and automation to data science and environmental justice. I believe in continuous learning, taking initiative, and building impactful solutions. (Ask me about growing my technical skills and leadership as a Break Through Tech Fellow!)  
