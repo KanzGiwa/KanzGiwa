@@ -20,7 +20,7 @@ Curious? [See the full project here](https://github.com/KanzGiwa/Allstate-1A).
 **Languages:** Python, JavaScript, TypeScript, C++, MySQL  
 **Data Science & ML:** Pandas, NumPy, scikit-learn  
 **Web & App Dev:** Flutter, Flask, HTML, CSS  
-**Tools:** Git, GitHub, Docker, Jira, AWS EC2, Linux, React, Google Colab
+**Tools:** Git, GitHub, Docker, Jira, AWS EC2, Linux, React, Google Colab  
 **Databases:** SQL, Google Sheets API, Oracle Apex
 
 ---
