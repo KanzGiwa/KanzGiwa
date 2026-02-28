@@ -32,6 +32,11 @@ Built an Android app that retrieves real-time gas prices by ZIP code using REST 
 **Tech Stack:** Dart, Flutter, Firebase, REST APIs, GitHub  
 **Learnings:** Full-stack mobile development, API integration, backend data management, QA testing and bug resolution, performance optimization.
 
+### [WiDS - Datathon LightGBM](https://github.com/KanzGiwa/WiDS-Datathon-LightGBM-Model)
+Built a LightGBM survival analysis model for the WiDS Datathon 2026 to predict wildfire evacuation threats across 12/24/48/72-hour horizons, achieving a 0.939 hybrid score (C-index + Brier) on right-censored survival data with 316 verified wildfire events.
+**Tech Stack:** Python, LightGBM, Optuna, SHAP, scikit-learn, Google Colab
+**Learnings:** Survival analysis, censoring-aware modeling, probability calibration, hyperparameter tuning, feature engineering on time-series event data.
+
 ### [Maternal Health Risk Classification](https://github.com/KanzGiwa/Maternal-Health-Risk-Machine-Learning-Project)  
 Engineered a supervised ML model to predict maternal health risks, improving accuracy by **62%** with preprocessing and hyperparameter tuning.  
 **Tech Stack:** Python, scikit-learn, Google Colab  
